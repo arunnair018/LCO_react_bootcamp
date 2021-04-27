@@ -6,9 +6,11 @@ const App = () => {
   return (
     <>
       <h1>Hello World</h1>
-      <Button title="App Store" />
-      <Button title="Play Store" />
-      <Button />
+      <center>
+        <Button title="App Store" />
+        <Button title="Play Store" />
+        <Button />
+      </center>
 
       {/* <button className="button">App Store</button>
       <button className="button">Play Store</button> */}
